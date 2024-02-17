@@ -1,0 +1,12 @@
+{
+  "name": "booker",
+  "private": true,
+  "version": "0.0.1",
+  "description": "A program for extended bookmarking. Privacy first, everything is run locally on your own computer.",
+  "author" : "Daniel Lundell <daniellundell91@gmail.com>",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "keywords": [],
+  "license": "MIT"
+}

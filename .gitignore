@@ -1,0 +1,29 @@
+db
+.vscode
+build
+node_modules
+.env
+
+# Logs
+logs
+*.log
+pnpm-debug.log*
+
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+# Contentlayer
+.contentlayer
